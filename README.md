@@ -1,4 +1,4 @@
-## Hi, welcome to my profile!
+## Welcome to my profile!
 
 ### About Me
 - I'm a rising junior at Cornell University pursuing a major in Computer Science.

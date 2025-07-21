@@ -2,8 +2,8 @@
 
 ### About Me
 - I'm a rising junior at Cornell University pursuing a major in Computer Science.
-- I am currently a Software Engineer Intern at Capital One working on credit tech.
-- I am most interested in developing efficient and scalable backend systems for large-scale software applications. I enjoy designing APIs and databases, and I also enjoy building full-stack and mobile applications. I love learning new programming languages and technologies!
+- I am currently a Software Engineer Intern at Capital One working on card tech.
+- I am most interested in developing efficient and scalable backend systems and APIs for large-scale software applications. I also love learning new programming languages and technologies!
 - At Cornell, I am specializing in software engineering and data-intensive computing. This includes classes on Information Retrieval & NLP, Database Systems, Backend Development, iOS Development, Software Engineering, and Operating Systems. 
 - I love video games and music!
 

@@ -2,10 +2,9 @@
 
 ### About Me
 - I'm a rising junior at Cornell University pursuing a major in Computer Science.
-- I am currently a Software Engineer Intern at Capital One working on card tech.
+- I was previously a Software Engineer Intern at Capital One working on a Data Engineering & Infrastructure team for Card Partnerships.
 - I am most interested in developing efficient and scalable backend systems and APIs for large-scale software applications. I also love learning new programming languages and technologies!
 - At Cornell, I am specializing in software engineering and data-intensive computing. This includes classes on Information Retrieval & NLP, Database Systems, Backend Development, iOS Development, Software Engineering, and Operating Systems. 
-- I love video games and music!
 
 ### Contact
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ad2226@cornell.edu)

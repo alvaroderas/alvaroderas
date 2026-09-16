@@ -2,7 +2,7 @@
 
 ### About Me
 - I'm a senior at Cornell University pursuing a major in Computer Science.
-- I am an incoming software engineer intern at Notion, with previous SWE internships working on data infra at HubSpot and Capital One.
+- I am currently a software engineer intern at Notion working on Serving Infrastructure, with previous SWE internships working on data infra at HubSpot and Capital One.
 - I am most interested in developing efficient & reliable distributed systems and infrastructure for large-scale software applications. I also love learning new programming languages and technologies!
 - I was a TA for 5 semesters at Cornell, teaching students about LLMs, RAG, information retrieval, and OOP. 
 

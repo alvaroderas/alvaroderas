@@ -3,7 +3,7 @@
 ### About Me
 - B.A. in Computer Science at Cornell University
 - Software Engineer Intern at Notion working on Serving Infrastructure
-- Teaching Assistant for 3 years at Cornell, instructing about information retrieval, NLP, LLMs, and programming paradigms
+- Teaching Assistant for 3 years at Cornell, instructing about information retrieval, NLP, and programming paradigms
 
 
 ### Contact
